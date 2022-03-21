@@ -3,9 +3,10 @@
 
 ## Petunjuk Penggunaan 
 ```
-1). Taruh index.html dalam 1 folder.
-2). klik 2x folder index.html, secara automatis akan redirect ke web default kalian.
-3). jika ingin dijalankan di server, silahkan file dan folder yang sudah di satukan tadi di drop ke htdocs (optional)
+1). Download semua file dan folder yang ada disini.
+2). Lalu, drop hasil download tadi dalam 1 folder.
+3). klik 2x folder index.html, secara automatis akan redirect ke web default kalian.
+4). jika ingin dijalankan di server, silahkan file dan folder yang sudah di satukan tadi di drop ke htdocs (optional)
 ```
 ### ================ Selamat menikmati :) ================
 
